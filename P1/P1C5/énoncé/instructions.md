@@ -1,9 +1,9 @@
 # Instructions  
 
-1. Définissez une variable `nom` contenant votre **nom** sous forme de chaîne de caractères.
-2. Définissez une variable `age` contenant votre **âge** sous forme d'un entier.
-3. Définissez une variable `taille` contenant votre **taille** sous forme d'un nombre à virgule flottante.
-4. Définissez une variable `est_etudiant` contenant une valeur booléenne et indiquant si vous êtes **étudiant ou non**.
+nom = "manissah"
+age = 18
+taille = 1.6
+est_etudiant = True
 5. Utilisez la fonction `print` pour afficher les valeurs des variables précédemment définies.
 
 Les prints doivent être sous la forme suivantes : 
